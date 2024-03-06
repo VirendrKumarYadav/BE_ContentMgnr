@@ -1,0 +1,12 @@
+{
+  "name": "node_basic",
+  "version": "1.0.0",
+  "description": "first version of node_basic",
+  "main": "first.js",
+  "scripts": {
+    "start": "nodemon first.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
